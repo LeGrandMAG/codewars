@@ -1,5 +1,7 @@
-def square_digits(num):
+##This function take a number find the square if  each number
 
+##for example if the input is "9119"  the result will be 811181
+def square_digits(num):
     v = str(num)
     listt = []
     for i in v:
